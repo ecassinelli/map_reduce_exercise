@@ -223,21 +223,24 @@ Please download the data from the following link:
 ```
 Question 1 Instruction
 
-- Extract purchases.txt from purchases.txt.gz file and copy it in each of the question 1 folders.
+- Extract purchases.txt from purchases.txt.gz file and copy it in each of the 
+question 1 folders.
 - Execute each shell file into the Command Line Interface. 
 ```
 
 ```
 Question 2 Instructions
 
-- Extract access_log from access_log.tar.xz file and copy it in each of the question 2 folders.
+- Extract access_log from access_log.tar.xz file and copy it in each of the 
+question 2 folders.
 - Execute each shell file into the Command Line Interface. 
 ```
 
 ```
 Question 3 Instructions
 
-- Extract forum_node.tsv from forum_data.tar.gz file and copy it in each of the question 3 folders.
+- Extract forum_node.tsv from forum_data.tar.gz file and copy it in each of 
+the question 3 folders.
 - Extract forum_users.tsv and copy it in Question3 folder. 
 - Execute each shell file into the Command Line Interface. 
 ```
