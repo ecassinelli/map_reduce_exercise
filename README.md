@@ -185,7 +185,8 @@ last_activity_at field.
 ```
 
 ```    
-- Q03B) We are interested to see if there is a correlation between the length of a post andthe length of answers.
+- Q03B) We are interested to see if there is a correlation between the 
+length of a post and the length of answers.
 
 Write a mapreduce program that would process the forum_node data and output 
 the length of the post and the average answer (just answer, not comment) 
@@ -231,6 +232,7 @@ Question 2 Instructions
 
 - Extract access_log from access_log.tar.xz file and copy it in each of the question 2 folders.
 - Execute each shell file into the Command Line Interface. 
+```
 
 ```
 Question 3 Instructions
